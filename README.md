@@ -16,4 +16,11 @@ we have developed Emotion Detection Using DL algorithms.
                 CNN - 72  <br />
    GUI :- TKinter  <br />
                 
+ <br />
+MADE BY :- <br />
+
+Prarthana Galani - 20BCE072 <br />
+Nishi Patel - 20BCE179 <br />
+Deep Pajpani - 20BCE184 <br />
+Jinesh Patel - 20BCE206<br />
                 
