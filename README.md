@@ -4,16 +4,16 @@ we have developed Emotion Detection Using DL algorithms.
 
 1) Text Emotion Detection :
 
-   Algorithm :- ANN
-   Accuracy :- 85
-   GUI :- FLASK
+   Algorithm :- ANN <br />
+   Accuracy :- 85   <br />
+   GUI :- FLASK     <br />
    
    
 2) Speech Emotion Detection :
 
-   Algorithm :- LSTM , CNN + LSTM
-   Accuracy  :- LSTM - 52
-                CNN - 72
-   GUI :- TKinter
+   Algorithm :- LSTM , CNN + LSTM <br />
+   Accuracy  :- LSTM - 52  <br />
+                CNN - 72  <br />
+   GUI :- TKinter  <br />
                 
                 
