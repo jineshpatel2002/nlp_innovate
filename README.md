@@ -27,7 +27,8 @@ To use this project, you will need to have Python 3 installed. Clone the reposit
 <br />
 <br />
 
-Here is a quick glance to Text Emotion Detection App : <br />
+<b> Here is a quick glance to Text Emotion Detection App : </b> <br /> 
+<br />
 
 ![Screenshot 2023-09-08 224112](https://github.com/jineshpatel2002/nlp_innovate/assets/76819951/a094f088-f69e-4ea8-8ce5-371f67adc383)  <br />
 
